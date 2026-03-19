@@ -1,4 +1,4 @@
-*Amazon Scraper 🛒
+*Amazon Scraper 
 
 Script en Python que realiza scraping de productos en Amazon usando Selenium.
 
@@ -17,7 +17,7 @@ Script en Python que realiza scraping de productos en Amazon usando Selenium.
 
 * Requisitos
 
-- Python 3.x
+- Python 3.14.3
 - Google Chrome
 - ChromeDriver
 
